@@ -1,0 +1,13 @@
+Myvenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+faiss_index/
+*.log

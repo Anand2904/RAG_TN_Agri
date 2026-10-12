@@ -1,0 +1,16 @@
+{
+  "saved": [
+    {
+      "name": "Pradhan Mantri Fasal Bima Yojana",
+      "url": "https://agriwelfare.gov.in/pmfby",
+      "raw_path": "data/raw/crop_insurance.html",
+      "department": "Agriculture and Farmers Welfare",
+      "government_level": "Central & State (Tamil Nadu)",
+      "category": "Crop Insurance",
+      "scheme_name": "PMFBY",
+      "fetched_at": "2026-10-12T20:30:00",
+      "updated": "2026-10-12"
+    }
+  ],
+  "failed": []
+}

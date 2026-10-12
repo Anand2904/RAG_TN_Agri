@@ -1,0 +1,6 @@
+{
+  "document_count": 1,
+  "chunk_count": 2,
+  "last_successful_indexing": "2026-10-12 20:46:47",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+}
